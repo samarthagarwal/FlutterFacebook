@@ -1,8 +1,7 @@
-# flutter_facebook
+# FlutterFacebook
 
-A new Flutter application.
+Facebook Mobile App UI Components cloned using Flutter. Feel free to add your own or use these components in your projects.
 
-## Getting Started
+## Demo
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![](Demo.gif "Demo")
